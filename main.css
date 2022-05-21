@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: "Poppins" ,sans-serif;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(135deg, #ff3800 60%, #484a48 40%);
+}
+.container h1{
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    position: relative;
+    font-size: 100px;
+    top: 3cm;
+    left: 4cm;
+}
+.container h2{
+    position: relative;
+    font-size: 30px;
+    left: 4cm;
+    top: 3cm;
+}
