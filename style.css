@@ -81,7 +81,7 @@ body
     opacity: 1;
     visibility: visible;
 }
-.card .content h2
+.card .content h1
 {
     color: #fff;
     text-transform: uppercase;
